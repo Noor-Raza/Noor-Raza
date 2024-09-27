@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Noor Ahmad Raza</h1> 
 <h3 align="center">MSc Business Analytics + CEMS MIM student at ESADE Business School</h3> 
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)”>
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-raza&label=Profile%20views&color=0e75b6&style=flat" alt="noor-raza" /> </p> 
