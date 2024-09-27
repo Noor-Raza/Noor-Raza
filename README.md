@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFz6DpNALWFFQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1614689826083?e=2147483647&v=beta&t=4mvZLQAnvWWuOlQ9XibuqOg3EizMjVrKaWH1xuM2D5M)] 
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFz6DpNALWFFQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1614689826083?e=2147483647&v=beta&t=4mvZLQAnvWWuOlQ9XibuqOg3EizMjVrKaWH1xuM2D5M) 
 
 <h1 align="center">Hi 👋, I'm Noor Ahmad Raza</h1> 
 <h3 align="center">MSc Business Analytics + CEMS MIM student at ESADE Business School</h3> 
