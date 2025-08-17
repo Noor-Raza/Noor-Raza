@@ -10,8 +10,6 @@
  
 - 🌱 I’m currently learning **Python, R-programming, SQL** 
  
-- 📫 How to reach me **noorraza756@gmail.com** 
- 
 - ⚡ Fun fact **I like to do Data analysis** 
  
 <h3 align="left">Connect with me:</h3> 
